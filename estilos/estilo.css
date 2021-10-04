@@ -1,0 +1,37 @@
+/*
+p{
+    color: red;
+    width: 500px;
+    border: 1px solid black;
+}
+
+li,h1{  
+        color: blue;
+}
+*/
+
+html{
+        font-size: 20px; /* px significa "pixels": o tamanho da fonte base é agora de 10 
+                            pixels */
+        font-family: "Open Sans", sans-serif; /* Este é o nome da fonte que eu peguei no Google Fonts */
+}
+
+img{
+        width: 100%; /* Largura da imagem*/
+        /* height: 0; Altura da imagem */
+}
+
+h1{
+    font-size: 60px;
+    text-align: center;
+}
+
+h2, h3, h4{
+            text-align: center; /* Alinhar o texto no centro*/
+}
+
+p, li{
+        font-size: 16px; /* Tamanho da fonte*/
+        line-height: 2; /* Altura entre as linhas*/ 
+        letter-spacing: 1; /* Espaçamento entre as letras*/
+}
